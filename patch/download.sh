@@ -11,4 +11,4 @@
 
 echo "Magisk stable version is 27.0 / 27.2" #Override
 wget https://github.com/topjohnwu/Magisk/releases/download/v27.0/Magisk-v27.0.apk -O stable.apk
-wget https://github.com/1q23lyc45/KitsuneMagisk/releases/download/v27.2-kitsune-4/app-release.apk -O stable-kitsune.apk
+wget https://github.com/AndnixSH/KitsuneMagisk/releases/download/backup/Kitsune.Magisk.release.v27.2-kitsune-4.apk -O stable-kitsune.apk
